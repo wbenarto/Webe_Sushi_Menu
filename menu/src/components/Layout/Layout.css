@@ -1,0 +1,9 @@
+.Content {
+    width: 1024px;
+    height: 768px;
+    border: 20px black;
+    background-color: aqua;
+    background-image: url('../../images/layout.jpg');
+    margin: auto;
+
+}

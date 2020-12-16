@@ -1,10 +1,12 @@
 import React from 'react';
-import image from '../../images/layout.jpg';
+import image from '../../images/Webe Circle.jpg';
+import './Navbar.css'
 
 function Navbar() {
     return (
         <div>
-            <img src={image}></img>
+            
+            <img className='logo' src={image}></img>
         </div>
     )
 }

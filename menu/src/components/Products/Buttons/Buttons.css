@@ -1,0 +1,8 @@
+.control {
+    margin-top: 0px;
+    width: 660px;
+    height: 100px;
+    background-color: #5752d352;
+    border: 2px black solid;
+    border-radius: 20px;
+}

@@ -1,16 +1,16 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
-import Menu from './components/Menu/Menu';
+import Layout from './components/Layout/Layout';
 import Footer from './components/Footer/Footer';
-
+// import Test from './containers/Test';
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Menu />
-      <Footer />
+      {/* <Test /> */}
+      <Layout />
+  
     </div>
   );
 }

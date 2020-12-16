@@ -1,0 +1,10 @@
+#footer {
+    width: 1024px;
+    display: inline-flex;
+    height: 55px; 
+    background-color: rgba(142, 180, 218, 0.438);
+    position: fixed;
+    margin-top: 0px;
+    border-top: 3px solid cyan;
+    
+}

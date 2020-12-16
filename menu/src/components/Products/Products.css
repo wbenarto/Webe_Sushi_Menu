@@ -1,0 +1,16 @@
+.Container {
+    display: inline-block;
+    border: 5px black dotted;
+    width: 660px;
+    height: 600px;
+    background-color: rgba(212, 209, 205, 0.39);
+    margin-left: 10px;
+    margin-top: 0px;
+    border-radius: 20px;  
+}
+
+.Slides {
+    border: 2px rgb(52, 52, 160) solid;
+    border-radius: 20px;
+    height: 500px;
+}
