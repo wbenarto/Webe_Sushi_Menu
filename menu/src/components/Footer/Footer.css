@@ -1,6 +1,6 @@
 #footer {
     width: 1024px;
-    display: inline-flex;
+    align-self: baseline;
     height: 55px; 
     background-color: rgba(142, 180, 218, 0.438);
     position: fixed;

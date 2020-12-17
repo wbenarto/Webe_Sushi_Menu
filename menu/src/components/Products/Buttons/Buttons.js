@@ -4,7 +4,7 @@ import './Buttons.css'
 const buttons = (props) => {
     return (
         <div className='control'>
-        <button>Raw</button>
+        <button>Buttons Comp</button>
         </div>
 
     )

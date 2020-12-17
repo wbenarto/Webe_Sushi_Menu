@@ -5,4 +5,7 @@ html, body {
 
 #content {
  margin-top: 5px;   
+ display: grid;
+ grid-template-columns: 67% 40%;
+ grid-column-gap: 0.6em;
 }

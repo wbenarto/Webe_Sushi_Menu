@@ -9,7 +9,7 @@ class Products extends Component {
             <div className='Container'>
             
                 <Buttons />
-                <div className='Slides'>Slide Show for Menu</div>
+                <div className='Slides'>Products Comp</div>
                 
                 
             </div>
